@@ -67,7 +67,7 @@ namespace uploadfile {
                     }
                 }
                 catch (Exception ex) {
-                    //Ray : please beawre how to handle exception
+                    //Ray : please be aware how to handle exception
                     throw ex;
                 }
         }
