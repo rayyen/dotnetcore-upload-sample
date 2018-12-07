@@ -10,13 +10,13 @@ namespace uploadfile {
 
     
     class Program {
-        private static readonly string ApiUrl = $"http://pms-devel.acerits.com:82/api/v1/file/file_upload";
+        private static readonly string ApiUrl = $"http://the-host-name-and-port-of-api/api/v1/file/file_upload";
         
         //Ray : Please note, async Task on Main supportted by C# 7.1 only.Please check your C# version.
         static async Task Main(string[] args){
 
             //Ray : please login to get ApiKey CustomerCode
-            string ApiKey = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6OCwidGVzdCI6InRlc3QiLCJleHAiOjE1ODAxNTEzNjV9.GrDbOcFTQLDFmsch42BR32WtXSShsBmFGyqxwbClKNE";
+            string ApiKey = "apikey returned by login api";
             string CustomerCode="T023";
             string FilePath = "sample.png";
             
