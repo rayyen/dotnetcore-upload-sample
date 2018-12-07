@@ -1,0 +1,11 @@
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.csprojAssemblyReference.cache
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.csproj.CoreCompileInputs.cache
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.AssemblyInfoInputs.cache
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.AssemblyInfo.cs
+/Volumes/sd/projects/uploadfile/bin/Debug/netcoreapp2.1/uploadfile.deps.json
+/Volumes/sd/projects/uploadfile/bin/Debug/netcoreapp2.1/uploadfile.runtimeconfig.json
+/Volumes/sd/projects/uploadfile/bin/Debug/netcoreapp2.1/uploadfile.runtimeconfig.dev.json
+/Volumes/sd/projects/uploadfile/bin/Debug/netcoreapp2.1/uploadfile.dll
+/Volumes/sd/projects/uploadfile/bin/Debug/netcoreapp2.1/uploadfile.pdb
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.dll
+/Volumes/sd/projects/uploadfile/obj/Debug/netcoreapp2.1/uploadfile.pdb
